@@ -1,0 +1,23 @@
+.Contain {
+    height: 50vh;
+    width: 50%;
+    border-radius: 8px;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.Menu {
+    margin-top: 10%;
+    margin-left: 30%;
+}
+
+.Item {
+    display: flex;
+    color: black;
+    font-size: 15px;
+    align-items: center;
+}
+
+.label {
+    margin-right: 15px;
+}
